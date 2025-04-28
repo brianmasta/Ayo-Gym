@@ -76,7 +76,8 @@ Ikuti langkah-langkah berikut untuk menginstal aplikasi ini secara lokal:
 
     - Buka file **.env** dan tambahkan konfigurasi berikut:
       ```bash
-      php artisan migrate
+      MIDTRANS_CLIENT_KEY=your_client_key
+      MIDTRANS_SERVER_KEY=your_server_key
       ```
 9. **Jalankan Aplikasi**:
 
