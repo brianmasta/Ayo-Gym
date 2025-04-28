@@ -17,7 +17,7 @@ Aplikasi manajemen gym berbasis web yang dibuat dengan Laravel Livewire, memungk
 - **Livewire**: Framework full-stack untuk Laravel yang memungkinkan interaksi dinamis tanpa menulis banyak JavaScript.
 - **Midtrans**: Payment gateway untuk transaksi online yang terintegrasi.
 - **Bootstrap**: Framework CSS untuk membuat UI responsif dan modern.
-- **QR Code**: Digunakan untuk validasi member di gym.
+- **QR Code**: Digunakan untuk validasi member di gym. [html5-qrcode](https://github.com/mebjas/html5-qrcode)
 
 ## Teknologi yang Digunakan
 
